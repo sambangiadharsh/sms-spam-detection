@@ -25,4 +25,4 @@ git clone https://github.com/yourusername/sms-spam-detection.git
 
 ## Evaluation
 ```
-streamlite raw.py
+streamlite run raw.py
